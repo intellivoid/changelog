@@ -12,4 +12,4 @@ https://github.com/Intellivoid/Issues and open a issue there.
 
 ## Recent Changelogs
 
-**Nothing here...** ***yet***
+ - [SpamProtectionBot 2.0.4.6](SpamProtectionBot/2.0.4.6.md)
