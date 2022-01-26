@@ -12,4 +12,5 @@ https://github.com/Intellivoid/Issues and open a issue there.
 
 ## Recent Changelogs
 
- - [SpamProtectionBot 2.0.4.6](SpamProtectionBot/2.0.4.6.md)
+ - [tdlib 1.0.1.4](tdlib/1.0.1.4.md) Wednesday, January 26, 2022 
+ - [SpamProtectionBot 2.0.4.6](SpamProtectionBot/2.0.4.6.md) Wed Jan, 26 2022
